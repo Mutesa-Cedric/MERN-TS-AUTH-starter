@@ -1,0 +1,13 @@
+{
+  "name": "google-facebook-twitter-github-authentication",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private":true,
+  "repository": "https://github.com/Mutesa-Cedric/google-facebook-twitter-github-authentication.git",
+  "author": "Mutesa-Cedric <mutesacedric@gmail.com>",
+  "license": "MIT",
+  "workspaces":[
+    "server",
+    "client"
+  ]
+}
