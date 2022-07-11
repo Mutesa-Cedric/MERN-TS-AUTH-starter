@@ -1,4 +1,3 @@
-# google-facebook-twitter-github-authentication
-implementation of Google, Facebook, GitHub and twitter  authentication
+# MERN-TS-Auth-Template
 
-monorepo fullstack react-nodejs app
+this is a MERN STACK AUTHENTICATION & AUTHORIZATION template implemented with TYPESCRIPT
