@@ -1,4 +1,5 @@
 import express from "express";
+// import { mongoConnection } from "./config/databaseConfig";
 require('dotenv').config();
 const cors=require('cors');
 const app=express();
@@ -15,3 +16,5 @@ app.get('/',(req,res)=>{
 app.listen(port,()=>{
     console.log(`server is running on port ${port}`)
 })
+
+// mongoConnection();

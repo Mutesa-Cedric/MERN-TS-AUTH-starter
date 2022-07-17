@@ -1,7 +1,7 @@
 import React from 'react'
 import LoginForm from './LoginForm'
 
-function index() {
+function Login() {
   return (
     <div>
         <LoginForm/>
@@ -9,4 +9,4 @@ function index() {
   )
 }
 
-export default index
+export default Login

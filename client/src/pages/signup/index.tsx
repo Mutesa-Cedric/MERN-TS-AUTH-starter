@@ -1,7 +1,7 @@
 import React from 'react'
 import SignupForm from './SignupForm'
 
-function index() {
+function Signup() {
   const signup = () => {
 
   }
@@ -12,4 +12,4 @@ function index() {
   )
 }
 
-export default index
+export default Signup
